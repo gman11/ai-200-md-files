@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+.vscode/
+.obsidian/workspace*
+
+# Secrets — never commit keys, connection strings, or .env files
+.env
+*.env
+*.pem
+*.key
+secrets*
